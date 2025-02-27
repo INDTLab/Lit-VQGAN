@@ -28,9 +28,9 @@ python main.py --base configs/trans.yaml
 Note: Training with multiple GPUs is supported. Simply specify the GPU ids with `CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7,...`
 
 Alternatively, you can download our pretrained models for a quick look.
-c2fmn13
-trans
-[c2fmn13](https://drive.google.com/file/d/1C_OyguVgeFtvHvZdqBD4Zahlfuwgu4YQ/view?usp=drive_link))
+
+[c2fmn13](https://drive.google.com/file/d/1C_OyguVgeFtvHvZdqBD4Zahlfuwgu4YQ/view?usp=drive_link)
+
 [trans](https://drive.google.com/drive/folders/1fEGIvaNngXxSVOGn6fWOLiAo1FC9ApVR?usp=drive_link)
 
 ### Paper
