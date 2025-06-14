@@ -9,6 +9,9 @@ This is the official PyTorch implementation of the paper
   - Download the [repo](https://github.com/CompVis/taming-transformers)
   - Run `pip install -e .`
 
+The code structure of this project is similar to [Taming Transformers](https://github.com/CompVis/taming-transformers). If you encounter any issues while running this project, you are recommended to refer to VQGAN's implementation for potential solutions.
+
+
 ### Natural Terrain Scene Data Set (NTSD)
 
 Download [NTSD](https://drive.google.com/drive/folders/1fEGIvaNngXxSVOGn6fWOLiAo1FC9ApVR?usp=drive_link)
